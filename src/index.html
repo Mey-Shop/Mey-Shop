@@ -377,7 +377,7 @@
             let html = '';
             products.forEach(p => {
                 const imageHtml = p.image && p.image.trim() !== ''
-                    ? `<img src="https://mey-shop.github.io/Mey-Shop/media/${p.image}" alt="${p.name}" loading="lazy" />`
+                    ? `<img src="${p.image}" alt="${p.name}" loading="lazy" />`
                     : `<div class="placeholder-icon"><i class="fas fa-leaf"></i></div>`;
 
                 html += `
