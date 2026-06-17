@@ -24,5 +24,13 @@
     "image": "img.ico",
     "description": "Super heroe de marvel.",
     "meta": "Color carmelita · Medidas 30x20cm"
+  },{
+    "id": 4,
+    "name": "Deadpool",
+    "category": "Accesorios",
+    "price": "34.50",
+    "image": "img.ico",
+    "description": "Super heroe de marvel.",
+    "meta": "Color carmelita · Medidas 30x20cm"
   }
 ]
