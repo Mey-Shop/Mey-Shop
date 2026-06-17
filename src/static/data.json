@@ -4,7 +4,7 @@
     "name": "Deadpool",
     "category": "Accesorios",
     "price": "34.50",
-    "image": "../media/img.ico",
+    "image": "https://mey-shop.github.io/Mey-Shop/media/img.ico",
     "description": "Super heroe de marvel.",
     "meta": "Color carmelita · Medidas 30x20cm"
   }
