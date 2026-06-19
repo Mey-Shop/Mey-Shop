@@ -1,11 +1,11 @@
 [
 {
-            id: 3,
-            name: 'Bolso de mimbre',
-            category: 'Accesorios',
-            price: '34.50',
-            image: '',
-            description: 'Artesanía natural con asas de cuero. Espacioso y ligero.',
-            meta: 'Color carmelita · Medidas 30x20cm'
-        }
+   id: 3,
+   name: 'Bolso de mimbre',
+   category: 'Accesorios',
+   price: '34.50',
+   image: '',
+   description: 'Artesanía natural con asas de cuero. Espacioso y ligero.',
+   meta: 'Color carmelita · Medidas 30x20cm'
+}
 ]
