@@ -1,1 +1,11 @@
-[]
+[
+ {
+    id: 1,
+    name: 'Parches',
+    category: '',
+    price: '300',
+    image: 'https://share.google/So2Q6p8qtJ9Ueas14',
+    description: 'A partir de 10 250. A partir de 20 200.',
+    meta: 'Varios colores'
+ }
+]
